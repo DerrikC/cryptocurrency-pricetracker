@@ -6,7 +6,7 @@ The goal of this project is to practice pulling data from an api while also desi
 
 ## Download Quick Start - Crypto Price Checker
 
-To download the Luna Chat App, clone this repository and remove the `.git` folder by running the following:
+To download the Crypto Price Checker, clone this repository and remove the `.git` folder by running the following:
 
 ```console
 $ git clone https://github.com/DerrikC/cryptocurrency-pricetracker.git <cryptocurrency-pricetracker>
