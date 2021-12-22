@@ -31,9 +31,11 @@ const filteredCoins = coins.filter(coin =>
   return (
     <div className="coin-app">
     <div className="coin-search">
-      <h1 className="coin-text">Search Currency</h1>
+      <h1 className="coin-text">Crypto Tracker</h1>
+      <h2 className="coin-text">Search Currency</h2>
       <form>
-        <input type="text" placeholder="search"
+
+        <input type="text" placeholder="Search"
         className="coin-input" onChange={handleChange}/>
       </form>
     </div>
